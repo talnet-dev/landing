@@ -1,6 +1,6 @@
 {
   "renderer/_default.page.client.tsx": {
-    "file": "assets/renderer/_default.page.client.tsx.1e6860d7.js",
+    "file": "assets/renderer/_default.page.client.tsx.7f22d12f.js",
     "src": "renderer/_default.page.client.tsx",
     "isEntry": true,
     "dynamicImports": [
@@ -10,7 +10,7 @@
     ]
   },
   "renderer/_error.page.tsx": {
-    "file": "assets/_error.page.a9574a3b.js",
+    "file": "assets/_error.page.7f74b6cd.js",
     "src": "renderer/_error.page.tsx",
     "isDynamicEntry": true,
     "imports": [
@@ -18,14 +18,14 @@
     ]
   },
   "pages/index/index.page.tsx": {
-    "file": "assets/index.page.3205e124.js",
+    "file": "assets/index.page.617a4fa4.js",
     "src": "pages/index/index.page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "renderer/_default.page.client.tsx"
     ],
     "css": [
-      "assets/index.page.00b881bf.css"
+      "assets/index.page.b1535ff6.css"
     ],
     "assets": [
       "assets/logo.f4d0a7db.svg"
