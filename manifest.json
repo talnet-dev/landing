@@ -1,6 +1,6 @@
 {
   "renderer/_default.page.client.tsx": {
-    "file": "assets/renderer/_default.page.client.tsx.9d49bed8.js",
+    "file": "assets/renderer/_default.page.client.tsx.be94802c.js",
     "src": "renderer/_default.page.client.tsx",
     "isEntry": true,
     "dynamicImports": [
@@ -10,7 +10,7 @@
     ]
   },
   "renderer/_error.page.tsx": {
-    "file": "assets/_error.page.758cd0d5.js",
+    "file": "assets/_error.page.830b5a7b.js",
     "src": "renderer/_error.page.tsx",
     "isDynamicEntry": true,
     "imports": [
@@ -18,7 +18,7 @@
     ]
   },
   "pages/index/index.page.tsx": {
-    "file": "assets/index.page.06133847.js",
+    "file": "assets/index.page.2e53e18b.js",
     "src": "pages/index/index.page.tsx",
     "isDynamicEntry": true,
     "imports": [
